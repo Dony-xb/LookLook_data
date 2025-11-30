@@ -1,1 +1,99 @@
-
+{
+  "videos": [
+    {
+      "id": "asdf-sd51-sdff-6511",
+      "title": "SONDERPLAN外模宣传片",
+      "description": "2025春季SONDERPLAN新品发布，拍摄新品图片和品牌大片",
+      "videoUrl": "https://looklook-mediares.obs.cn-south-1.myhuaweicloud.com/videos/sonderplan%E5%A4%96%E6%A8%A1%E5%AE%A3%E4%BC%A0%E7%89%87.mp4",
+      "coverUrl": "https://looklook-mediares.obs.cn-south-1.myhuaweicloud.com/covers/sonderplan%E5%A4%96%E6%A8%A1%E5%AE%A3%E4%BC%A0%E7%89%87.jpg",
+      "user": {
+        "id": "123456789",
+        "username": "SONDERPLAN官方账号",
+        "avatarUrl": "https://looklook-mediares.obs.cn-south-1.myhuaweicloud.com/avater/1.jpg"
+      },
+      "tags": ["时尚", "女鞋", "模特"],
+      "stats": {
+        "likesCount": 2345,
+        "commentsCount": 123,
+        "sharesCount": 67
+      },
+      "createdAt": "2025-3-15T10:30:00Z"
+    },
+    {
+      "id": "assd-s3d1-s79f-2211",
+      "title": "户外拍摄花絮",
+      "description": "和姐妹外出拍摄花絮，这家的鞋子真的是爱了",
+      "videoUrl": "https://looklook-mediares.obs.cn-south-1.myhuaweicloud.com/videos/%E6%88%B7%E5%A4%96%E6%8B%8D%E6%91%84.mp4",
+      "coverUrl": "https://looklook-mediares.obs.cn-south-1.myhuaweicloud.com/covers/%E6%88%B7%E5%A4%96%E6%8B%8D%E6%91%84.jpg",
+      "user": {
+        "id": "223312445",
+        "username": "怀森纳",
+        "avatarUrl": "https://looklook-mediares.obs.cn-south-1.myhuaweicloud.com/avater/2.jpg"
+      },
+      "tags": ["时尚", "摄影", "闺蜜"],
+      "stats": {
+        "likesCount": 2745,
+        "commentsCount": 183,
+        "sharesCount": 62
+      },
+      "createdAt": "2024-3-15T10:30:00Z"
+    },
+    {
+      "id": "as2f-qq51-s87f-6771",
+      "title": "捏捏乐",
+      "description": "我们家新出的橡皮泥鞋，狗头狗头",
+      "videoUrl": "https://looklook-mediares.obs.cn-south-1.myhuaweicloud.com/videos/%E6%8D%8F%E6%8D%8F%E4%B9%90.mp4",
+      "coverUrl": "https://looklook-mediares.obs.cn-south-1.myhuaweicloud.com/covers/%E6%8D%8F%E6%8D%8F%E4%B9%90.jpg",
+      "user": {
+        "id": "5465231356",
+        "username": "到底是你王姐啊",
+        "avatarUrl": "https://looklook-mediares.obs.cn-south-1.myhuaweicloud.com/avater/3.jpg"
+      },
+      "tags": ["AI", "女鞋", "手工"],
+      "stats": {
+        "likesCount": 215,
+        "commentsCount": 13,
+        "sharesCount": 67
+      },
+      "createdAt": "2025-5-15T10:30:00Z"
+    },
+    {
+      "id": "1s1f-see1-s99f-0511",
+      "title": "谁家的狗",
+      "description": "拍摄徒闯进来一条狗谁懂",
+      "videoUrl": "https://looklook-mediares.obs.cn-south-1.myhuaweicloud.com/videos/%E8%BE%B9%E7%89%A7.mp4",
+      "coverUrl": "https://looklook-mediares.obs.cn-south-1.myhuaweicloud.com/covers/%E8%BE%B9%E7%89%A7.jpg",
+      "user": {
+        "id": "489454664",
+        "username": "可爱的尼伯龙根",
+        "avatarUrl": "https://looklook-mediares.obs.cn-south-1.myhuaweicloud.com/avater/4.jpg"
+      },
+      "tags": ["边牧", "狗狗", "拍摄"],
+      "stats": {
+        "likesCount": 5345,
+        "commentsCount": 323,
+        "sharesCount": 67
+      },
+      "createdAt": "2025-9-15T10:30:00Z"
+    },
+    {
+      "id": "mkdf-srt1-sdpl-65o1",
+      "title": "帅到我了这双拖鞋",
+      "description": "黑武士暗黑先锋单品",
+      "videoUrl": "https://looklook-mediares.obs.cn-south-1.myhuaweicloud.com/videos/%E9%BB%91%E8%89%B2%E6%8B%96%E9%9E%8B%E5%B9%BF%E5%91%8A.mp4",
+      "coverUrl": "https://looklook-mediares.obs.cn-south-1.myhuaweicloud.com/covers/%E9%BB%91%E8%89%B2%E6%8B%96%E9%9E%8B%E5%B9%BF%E5%91%8A.jpg",
+      "user": {
+        "id": "71316546",
+        "username": "路明非",
+        "avatarUrl": "https://looklook-mediares.obs.cn-south-1.myhuaweicloud.com/avater/5.jpg"
+      },
+      "tags": ["暗黑", "先锋", "巴黎世家"],
+      "stats": {
+        "likesCount": 2345,
+        "commentsCount": 123,
+        "sharesCount": 67
+      },
+      "createdAt": "2025-11-15T10:30:00Z"
+    }
+  ]
+}
